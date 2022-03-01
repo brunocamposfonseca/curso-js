@@ -1,0 +1,10 @@
+body{
+    background-color: burlywood;
+    color: aliceblue;
+    font: normal 18pt Arial;
+}
+
+input{
+    font: normal 18pt Arial;  
+    width: 150px; 
+}

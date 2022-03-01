@@ -1,0 +1,10 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+input{
+    font: normal 18pt Arial;  
+    width: 150px; 
+    align-items: center;
+}
